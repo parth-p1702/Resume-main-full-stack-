@@ -40,8 +40,10 @@ git clone https://github.com/parth-p1702/Resume-main-full-stack-.git
 
 cd client
 npm install
+npm run dev
 
 #### backend
-```bash
+
 cd client
-npm server
+npm install
+npm run dev
