@@ -37,7 +37,7 @@ git clone https://github.com/parth-p1702/Resume-main-full-stack-.git
 ### 1. Install dependencies
 
 #### Frontend
-```bash
+
 cd client
 npm install
 
